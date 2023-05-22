@@ -1,32 +1,35 @@
 {
     "playersStart":[
-         {  "id":1,
-            "name":"Seydou Keita",
-            "profession":"Foot ball",
-            "description":"Seydou Keïta (French pronunciation: ​[sɛdu kɛjta]; anglicised to Keita; born 16 January 1980) is a Malian former footballer. A versatile midfielder, he operated as both a central or defensive midfielder.",
-            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Keita_August_2008_Joan_Gamper_Trophy.jpg"
-},
+      {
+        "id": 1,
+        "name": "Seydou Keita",
+        "profession": "Foot ball",
+        "description": "Seydou Keïta (French pronunciation: ​[sɛdu kɛjta]; anglicised to Keita; born 16 January 1980) is a Malian former footballer. A versatile midfielder, he operated as both a central or defensive midfielder.",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Keita_August_2008_Joan_Gamper_Trophy.jpg"
+      },
 
-{
-    "id":2,
-"name":"Lionel Messi",
-"profession":"Foot ball",
-"description":"Lionel Messi, parfois surnommé Leo Messi, né le 24 juin 1987 à Rosario en Argentine, est un footballeur international argentin jouant au poste d'attaquant au Paris Saint-Germain. Septuple vainqueur du Ballon d'or, un record, il est considéré comme l'un des meilleurs joueurs de football toutes générations confondues",
-"imgUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Keita_August_2008_Joan_Gamper_Trophy.jpg"
-},
+      {
+        "id": 2,
+        "name": "Lionel Messi",
+        "profession": "Foot ball",
+        "description": "Lionel Messi, parfois surnommé Leo Messi, né le 24 juin 1987 à Rosario en Argentine, est un footballeur international argentin jouant au poste d'attaquant au Paris Saint-Germain. Septuple vainqueur du Ballon d'or, un record, il est considéré comme l'un des meilleurs joueurs de football toutes générations confondues",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Keita_August_2008_Joan_Gamper_Trophy.jpg"
+      },
 
-{ "id":3,
-"name":"Ronaldo de Assis Moreira",
-"profession":"Foot ball",
-"description":"Ronaldo de Assis Moreira, né le 21 mars 1980 à Porto Alegre au Brésil, plus communément connu sous le pseudonyme de Ronaldinho Gaúcho ou tout simplement Ronaldinho3, est un footballeur international brésilien. Il est champion du monde en 2002 avec l'équipe du Brésil.",
-"imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ronaldinho_Kazan.jpg/420px-Ronaldinho_Kazan.jpg"
-},
+      {
+        "id": 3,
+        "name": "Ronaldo de Assis Moreira",
+        "profession": "Foot ball",
+        "description": "Ronaldo de Assis Moreira, né le 21 mars 1980 à Porto Alegre au Brésil, plus communément connu sous le pseudonyme de Ronaldinho Gaúcho ou tout simplement Ronaldinho3, est un footballeur international brésilien. Il est champion du monde en 2002 avec l'équipe du Brésil.",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ronaldinho_Kazan.jpg/420px-Ronaldinho_Kazan.jpg"
+      },
 
-{
-    "id":4,
-"name":"Cristiano Ronaldo dos Santos Aveiro",
-"profession":"Foot ball",
-"description":"Cristiano Ronaldo dos Santos Aveiro, couramment appelé Cristiano Ronaldo ou Ronaldo et surnommé CR7, né le 5 février 1985 à Funchal, est un footballeur international portugais qui évolue au poste d'attaquant à Al-Nassr FC.",
-"imgUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Cristiano_Ronaldo_WC2022_-_01.jpg"
-}]
+      {
+        "id": 4,
+        "name": "Cristiano Ronaldo dos Santos Aveiro",
+        "profession": "Foot ball",
+        "description": "Cristiano Ronaldo dos Santos Aveiro, couramment appelé Cristiano Ronaldo ou Ronaldo et surnommé CR7, né le 5 février 1985 à Funchal, est un footballeur international portugais qui évolue au poste d'attaquant à Al-Nassr FC.",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cristiano_Ronaldo_WC2022_-_01.jpg"
+      }
+    ]
 }
